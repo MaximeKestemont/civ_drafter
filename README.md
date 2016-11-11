@@ -3,7 +3,10 @@
 Randomize for each player several civilizations among the ones from civilization 6.
 
 ## How to use : 
-python civilization.py "Martin Alex Max" 3
+First parameter : name of players.
+Second parameter : number of civilizations to randomize for each player.
+
+Example : python civilization.py "Martin Alex Max" 3
 
 ## Expected output : 
 ```
